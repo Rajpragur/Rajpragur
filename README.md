@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Rajpragur
-- 👀 I’m interested in Programming
-- 🌱 I’m currently learning Java
+- 👀 I’m a Programming
+- 🌱 I’m currently learning C++ and Java
 - 📫 How to reach me - Rajpragur@gmail.com 
 
 <!---
