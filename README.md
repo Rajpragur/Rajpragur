@@ -2,6 +2,10 @@
 <h3 align="center">A full-stack developer and a sophomore student at IIT Patna</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajpragur&label=Profile%20views&color=0e75b6&style=flat" alt="rajpragur" /> </p>
+- 📫 How to reach me **rajpragur@gmail.com**
+
+<img align="right" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3B6NGdvdmRnbzVveWlqYTRiMDU3aDdzM3JxOGV4cDVjdHJ6emo3aiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/HyOOyynWxMxig/giphy.gif"  />
+
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rajpragur&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
@@ -10,9 +14,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rajpragur" alt="rajpragur" /></a> </p>
 
-- 📫 How to reach me **rajpragur@gmail.com**
-
-<img align="right" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3B6NGdvdmRnbzVveWlqYTRiMDU3aDdzM3JxOGV4cDVjdHJ6emo3aiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/HyOOyynWxMxig/giphy.gif"  />
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
