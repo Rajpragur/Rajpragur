@@ -7,6 +7,8 @@
 <img align="right" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3B6NGdvdmRnbzVveWlqYTRiMDU3aDdzM3JxOGV4cDVjdHJ6emo3aiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/HyOOyynWxMxig/giphy.gif"  />
 
 
+# 📊 GitHub Stats:
+
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=rajpragur&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rajpragur&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
@@ -26,14 +28,6 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=rajpragur&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=rajpragur&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=rajpragur&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=rajpragur&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=erum-meraj&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=erum-meraj&icon=0&color=0)](https://visitcount.itsvg.in)
