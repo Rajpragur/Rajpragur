@@ -12,6 +12,8 @@
 
 - 📫 How to reach me **rajpragur@gmail.com**
 
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/rajpragur" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="rajpragur" height="30" width="40" /></a>
