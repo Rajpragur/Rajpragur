@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **rajpragur@gmail.com**
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<img align="right" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3B6NGdvdmRnbzVveWlqYTRiMDU3aDdzM3JxOGV4cDVjdHJ6emo3aiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/HyOOyynWxMxig/giphy.gif"  />
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
