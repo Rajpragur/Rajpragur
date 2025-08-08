@@ -5,7 +5,7 @@
 
 ## 📫 How to reach me - rajpragur@gmail.com
 
-<img align="right" height="150" src="[https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3B6NGdvdmRnbzVveWlqYTRiMDU3aDdzM3JxOGV4cDVjdHJ6emo3aiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/HyOOyynWxMxig/giphy.gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGxjOGVzb3VrNzg3NmppN212anJ3b2gwNng0YTNyeTBwMThrb3pnZyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/N6wBPWsPyifYc/giphy.gif)"  />
+<img align="right" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGxjOGVzb3VrNzg3NmppN212anJ3b2gwNng0YTNyeTBwMThrb3pnZyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/N6wBPWsPyifYc/giphy.gif"  />
 
 
 # 📊 GitHub Stats:
