@@ -3,17 +3,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajpragur&label=Profile%20views&color=0e75b6&style=flat" alt="rajpragur" /> </p>
 
-## 📫 How to reach me - rajpragur@gmail.com
+## How to reach me - rajpragur@gmail.com
 
-# 📊 GitHub Stats:
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=rajpragur&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  
-<img align="right" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGxjOGVzb3VrNzg3NmppN212anJ3b2gwNng0YTNyeTBwMThrb3pnZyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/N6wBPWsPyifYc/giphy.gif"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rajpragur&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
 
-# 📱 Connect With Me:
+# Connect With Me:
 <p align="left">
 <a href="https://dev.to/rajpragur" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="rajpragur" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/rajpragur" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rajpragur" height="30" width="40" /></a>
