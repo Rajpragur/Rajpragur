@@ -1,8 +1,12 @@
-# raj
+<h1 align="center">raj</h1>
 
-_math & computing @ IIT Patna '28_
+<p align="center"><em>math & computing @ IIT Patna '28</em></p>
 
-[![website](https://img.shields.io/badge/website-0b0b0b?style=flat-square&logo=googlechrome&logoColor=white)](https://rajpragur.in) [![linkedin](https://img.shields.io/badge/linkedin-0b0b0b?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/rajpragur) [![raj@trelo.cc](https://img.shields.io/badge/raj%40trelo.cc-0b0b0b?style=flat-square&logo=gmail&logoColor=white)](mailto:raj@trelo.cc)
+<p align="center">
+  <a href="https://rajpragur.in"><img src="https://img.shields.io/badge/website-0b0b0b?style=flat-square&logo=googlechrome&logoColor=white" alt="website"></a>
+  <a href="https://linkedin.com/in/rajpragur"><img src="https://img.shields.io/badge/linkedin-0b0b0b?style=flat-square&logo=linkedin&logoColor=white" alt="linkedin"></a>
+  <a href="mailto:raj@trelo.cc"><img src="https://img.shields.io/badge/raj%40trelo.cc-0b0b0b?style=flat-square&logo=gmail&logoColor=white" alt="email"></a>
+</p>
 
 ```python
 class Raj:
