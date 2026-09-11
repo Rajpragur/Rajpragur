@@ -1,16 +1,42 @@
-<h1 align="center">Hi 👋, I'm Raj</h1>
-<h3 align="center">A full-stack developer and a sophomore student at IIT Patna</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rajpragur&label=Profile%20views&color=0e75b6&style=flat" alt="rajpragur" /> </p>
-
-## How to reach me - rajpragur@gmail.com
-
-
-# Connect With Me:
-<p align="left">
-<a href="https://dev.to/rajpragur" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="rajpragur" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/rajpragur" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rajpragur" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/yapper" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="yapper" height="30" width="40" /></a>
+<h1 align="center">raj</h1>
+<p align="center">
+  <em>math & computing @ iit patna '28</em>
 </p>
-
-[![](https://visitcount.itsvg.in/api?id=erum-meraj&icon=0&color=0)](https://visitcount.itsvg.in)
+<p align="center">
+  <a href="https://rajpragur.in"><img src="https://img.shields.io/badge/website-0b0b0b?style=flat-square&logo=googlechrome&logoColor=white" alt="website"></a>
+  <a href="https://linkedin.com/in/rajpragur"><img src="https://img.shields.io/badge/linkedin-0b0b0b?style=flat-square&logo=linkedin&logoColor=white" alt="linkedin"></a>
+  <a href="mailto:raj@trelo.cc"><img src="https://img.shields.io/badge/raj@trelo.cc-0b0b0b?style=flat-square&logo=gmail&logoColor=white" alt="email"></a>
+</p>
+<br>
+```python
+class Raj:
+    learning = ["low latency engineering", "inference / performance engineering"]
+    curious  = "model architectures — why they are shaped the way they are"
+    rule     = "measure the ceiling before optimising anything"
+    daily_habit  = "Seeing the new benchmaxxing model's performance, far too often"
+```
+<br>
+I work in two places where latency *is* the product: trading systems and model inference.
+They turn out to be the same discipline in different clothes. An order book and a decode loop
+are both memory-bound problems pretending to be compute-bound ones, both punish a cache miss
+more than a branch, and both are won by knowing what the hardware is actually doing.
+```
+low latency                         inference
+─────────────────────────────────────────────────────────────
+lock-free ring buffers              GPU kernels, dispatch cost
+cache lines, false sharing          memory bandwidth ceilings
+memory ordering, atomics            quantisation, KV caches
+p99 over averages                   TTFT over throughput
+```
+Separately I just like looking at architectures — MoE routing, attention variants, what got
+dropped between one model generation and the next, and which of those choices were about
+quality versus about fitting the hardware. I check Artificial Analysis and the benchmark
+leaderboards more often than is strictly reasonable.
+Also a devoted agent-harness user. Hermes runs my builds, my benchmarks, my job applications,
+and at this point probably my dinner.
+<br>
+<sub>
+<b>now</b> &nbsp;·&nbsp; writing Metal and NEON kernels &nbsp;·&nbsp; lock-free C++20 &nbsp;·&nbsp; reading about quantisation
+</sub>
+<br><br>
+`C++` &nbsp; `Python` &nbsp; `Go` &nbsp; `PyTorch` &nbsp; `Docker` &nbsp; `Git`
