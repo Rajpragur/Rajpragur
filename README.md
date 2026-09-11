@@ -13,10 +13,10 @@ class Raj:
     learning = ["low latency engineering", "inference / performance engineering"]
     curious  = "model architectures — why they are shaped the way they are"
     rule     = "measure the ceiling before optimising anything"
-    daily_habit  = "Seeing the new benchmaxxing model's performance, far too often"
+    pastime  = "Artificial Analysis and benchmark viewers, far too often"
 ```
 <br>
-I work in two places where latency *is* the product: trading systems and model inference.
+I work on the two places where latency *is* the product: trading systems and model inference.
 They turn out to be the same discipline in different clothes. An order book and a decode loop
 are both memory-bound problems pretending to be compute-bound ones, both punish a cache miss
 more than a branch, and both are won by knowing what the hardware is actually doing.
